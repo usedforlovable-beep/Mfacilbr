@@ -1,0 +1,3 @@
+- Keep the grocery workspace in the index route with local view state; its tabs share one comparison workflow.
+- Use global semantic tokens and shared UI controls for all grocery workspace styling.
+- Until an authorized provider is connected, render explicit unavailable states rather than sample offers.
